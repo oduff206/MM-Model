@@ -22,6 +22,8 @@ To make prediction: edit predict.py, and at very bottom change:
 - Season: enter year (2023 for example)
 - Team A ID: enter team ID (check MTeams.csv for reference)
 - Team B ID: enter team ID (check MTeams.csv for reference)
+
+Run 'python predict.py' in terminal
    
  ``` 
    mm_model/
